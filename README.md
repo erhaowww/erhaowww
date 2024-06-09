@@ -10,11 +10,39 @@
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="margin-right: 20px;">
   <div style="flex-grow: 1;">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=500&height=100&lines=I+am+a+Programmer;Study+in+Degree+of+Software+System+Development;Front-end+%26+Back-end+Developer"></a>
+    <div id="dynamic-text" style="white-space: pre-wrap; font-family: 'Courier New', Courier, monospace; font-size: 20px; color: cyan;">
+      <span id="line1">I am a Programmer</span>
+      <span id="line2">Study in Degree of Software System Development</span>
+      <span id="line3">Front-end & Back-end Developer</span>
+    </div>
   </div>
 </div>
+
+<style>
+  @keyframes typing {
+    0%, 100% { width: 0; }
+    50% { width: 100%; }
+  }
+  #dynamic-text span {
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 3px solid;
+    width: 0;
+    animation: typing 3s steps(40, end) infinite;
+  }
+  #dynamic-text #line1 {
+    animation-delay: 0s;
+  }
+  #dynamic-text #line2 {
+    animation-delay: 3s;
+  }
+  #dynamic-text #line3 {
+    animation-delay: 6s;
+  }
+</style>
 
 <!--- snake -->
 <div align="center">
