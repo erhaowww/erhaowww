@@ -60,7 +60,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,apache,aws,azure,bash,bootstrap,c,cpp,css,php,laravel,codeigniter,chartjs,codepen,discord,firebase,github,html,java,jenkins,js,jquery,kotlin,linux,mysql,py,react,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,aws,azure,bash,bootstrap,c,cpp,css,cs,idea,php,laravel,solidity,stackoverflow,codepen,discord,firebase,github,html,java,jenkins,js,jquery,kotlin,linux,mysql,py,react,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
@@ -96,4 +96,4 @@
 
 Credit: [erhaowww](https://github.com/erhaowww)
 
-Profile: <a href="https://erhaowww.github.io/" target="_blank">https://erhaowww.github.io/</a>
+Portfolio: <a href="https://erhaowww.github.io/" target="_blank">/</a>
