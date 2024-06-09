@@ -9,10 +9,12 @@
   </ul>
 </div>
 
-<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="right">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=800&height=100&lines=I+am+a+Programmer;Study+in+Degree+of+Software+System+Development;Front-end+&+Back-end+Developer"></a>
-</p>
+<div style="display: flex; align-items: center;">
+  <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <div style="flex-grow: 1;">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=500&height=100&lines=I+am+a+Programmer;Study+in+Degree+of+Software+System+Development;Front-end+%26+Back-end+Developer"></a>
+  </div>
+</div>
 
 <!--- snake -->
 <div align="center">
