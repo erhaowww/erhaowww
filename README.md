@@ -11,7 +11,7 @@
 
 <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="right">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Programmer;Study+in+Degree+of+Software+System+Development;Front-end+&+Back-end+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=800&height=100&lines=I+am+a+Programmer;Study+in+Degree+of+Software+System+Development;Front-end+&+Back-end+Developer"></a>
 </p>
 
 <!--- snake -->
